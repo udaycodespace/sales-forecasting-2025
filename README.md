@@ -1,8 +1,7 @@
 
 # Advanced Sales Forecasting & Trend Analysis (2025)
 
-**Author:** Somapuram Uday  
-**Internship / Project Track:** AI & ML / Data Analytics  
+**Author:** Somapuram Uday   
 **Tools & Technologies:** Python, Google Colab, Pandas, Matplotlib, Seaborn, Prophet, ARIMA, Plotly §  
 **GitHub:** [https://github.com/udaycodespace/sales-forecasting-2025](https://github.com/udaycodespace/sales-forecasting-2025)  
 
@@ -54,7 +53,7 @@ The sales dataset used in this project is available here:
 
 ## 🔹 About Me
 **Name:** Somapuram Uday  
-**Education:** 4th Year Computer Science Undergraduate  
+**Education:** 4th Year Computer Science and Technology Undergraduate  
 **Skills:** Python, Data Analysis, EDA, Time Series Forecasting, Data Visualization, Tableau  
 **Interests:** AI & ML, Predictive Analytics, Data-Driven Decision Making  
 
