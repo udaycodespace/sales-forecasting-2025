@@ -2,8 +2,7 @@
 # Advanced Sales Forecasting & Trend Analysis (2025)
 
 **Author:** Somapuram Uday   
-**Tools & Technologies:** Python, Google Colab, Pandas, Matplotlib, Seaborn, Prophet, ARIMA, Plotly §  
-**GitHub:** [https://github.com/udaycodespace/sales-forecasting-2025](https://github.com/udaycodespace/sales-forecasting-2025)  
+**Tools & Technologies:** Python, Google Colab, Pandas, Matplotlib, Seaborn, Prophet, ARIMA, Plotly 
 
 ---
 
